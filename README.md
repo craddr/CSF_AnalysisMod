@@ -3,7 +3,7 @@ Codes required for the analysis of imaging data and visual stimulus data from Ro
 
 PC Setup for analysis:
 Install MATLAB 2018a or later 
-Install Suite2P as per Github instructions 
+Install Suite2P as per Github instructions https://suite2p.readthedocs.io/en/latest/
 Download all code in reops and add folder and subdirs to MATLAB path. 
 
 Running Analysis: 
