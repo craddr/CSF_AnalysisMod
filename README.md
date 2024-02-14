@@ -20,4 +20,9 @@ Further data analysis can be completed in R, codes are available on request from
 Most codes are written by Rosie Craddock (2024). Many codes are based on those of Adam Ranson and Asta Vasalauskaite during their time at Cardiff University.
 Author and contributions are indicated in the first few lines of each code.
 
+Suite2p is used in this analysis pipeline. Please cite suite2p as required: 
+Suite2p: beyond 10,000 neurons with standard two-photon microscopy
+Marius Pachitariu, Carsen Stringer, Mario Dipoppa, Sylvia Schröder, L. Federico Rossi, Henry Dalgleish, Matteo Carandini, Kenneth D. Harris
+bioRxiv 061507; doi: https://doi.org/10.1101/061507
+
 
