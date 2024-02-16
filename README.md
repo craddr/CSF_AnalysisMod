@@ -4,7 +4,12 @@ Codes required for the analysis of imaging data and visual stimulus data from Ro
 PC Setup for analysis:
 Install MATLAB 2018a or later 
 Install Suite2P as per Github instructions https://suite2p.readthedocs.io/en/latest/
-Download all code in reops and add folder and subdirs to MATLAB path. 
+Download all code in reop, save to C:\\Analysis. 
+Save Analysis directory and all subdirectoties to MATLAB path.
+Change makeEventFilePsychStim.m on line 15 so localReposPath points to the directory in which your experimental data is found.
+Change collateDataBatchRosie.m on line 35 so localReposPath points to the directory in which your experimental data is found.
+Change pullStimOnsetPsychStim_s2pRosie on line 31 so localReposPath points to the directory in which your experimental data is found.
+Change NcellsAndRespSize4.m on line 8 so localReposPath points to the directory in which your experimental data is found.
 
 Running Analysis: 
 create cell masks from 2p GCaMP6f imaging data using suite2p and the ops file contained in the main repo.
